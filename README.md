@@ -50,6 +50,10 @@ Now, edit the `.env` file and add your values. <br>
 Run the file [Auto-Precise-Prompts.ipynb](Auto-Precise-Prompts.ipynb)
 
 
+## :computer: More Projects
+For more projects, open the profile: **[@Pro-GenAI](https://github.com/Pro-GenAI)** <br>
+
+
 ## :hammer_and_wrench: Contributing
 Contributions are welcome! Feel free to create an issue for any bug reports or suggestions. <br>
 Please contribute to the code by adding more filters and making the code more efficient. <br>
