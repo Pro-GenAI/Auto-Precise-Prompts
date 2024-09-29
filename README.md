@@ -29,7 +29,7 @@ A published research paper is available at [NAJER](https://najer.org/najer/artic
 To use my paper for reference, please cite it as below:
 ```bibtex
 @article{vadlapati2024autopreciseprompts,
-	title={AutoPrecisePrompts: Automated LLM-based Prompt Engineering for Structured Data Processing},
+	title={{AutoPrecisePrompts: Automated LLM-based Prompt Engineering for Structured Data Processing}},
 	journal={North American Journal of Engineering and Research},
 	volume={5},
 	number={1},
