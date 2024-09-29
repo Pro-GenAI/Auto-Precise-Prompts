@@ -56,7 +56,6 @@ For more projects, open the profile: **[@Pro-GenAI](https://github.com/Pro-GenAI
 
 ## :hammer_and_wrench: Contributing
 Contributions are welcome! Feel free to create an issue for any bug reports or suggestions. <br>
-Please contribute to the code by adding more filters and making the code more efficient. <br>
 To contribute, star :star: the repository and create an Issue. If I can't solve it, I will allow anyone to create a pull request.<br>
 
 
