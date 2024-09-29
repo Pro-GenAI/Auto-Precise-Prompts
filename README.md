@@ -30,12 +30,12 @@ To use my paper for reference, please cite it as below:
 ```bibtex
 @article{vadlapati2024autopreciseprompts,
 	title={{AutoPrecisePrompts: Automated LLM-based Prompt Engineering for Structured Data Processing}},
-	journal={North American Journal of Engineering and Research},
+	journal={{North American Journal of Engineering and Research}},
 	volume={5},
 	number={1},
 	year={2024},
 	month={Jan},
-	author={Praneeth Vadlapati},
+	author={{Praneeth Vadlapati}},
 	url={https://najer.org/najer/article/view/83}
 }
 ```
