@@ -4,7 +4,7 @@
 
 Automated LLM-based Prompt Engineering for Structured Data Processing
 
-[![License: AFL v3](https://img.shields.io/badge/License-AFLv3-yellow.svg?style=for-the-badge)](./LICENSE.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-yellow.svg?style=for-the-badge)](./LICENSE.md)
 [![Journal](https://img.shields.io/badge/Journal%20Article-Link-darkgreen?style=for-the-badge)](https://najer.org/najer/article/view/83)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
